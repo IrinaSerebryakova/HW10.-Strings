@@ -19,5 +19,6 @@ public class Main {
         String fullNameRefactor = fullName1.replace("ё","e");
         System.out.printf("Данные ФИО сотрудника – %s.\n", fullNameRefactor);
 
+
     }
 }
